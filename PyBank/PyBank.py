@@ -23,6 +23,8 @@ profit_loss_change = 0
 
 
 
+
+
 # Set path for file
 csvpath = r'C:\Users\cchic\DataViz\budget_data.csv'
 
