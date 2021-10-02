@@ -7,3 +7,4 @@ Once calculating those items, my script calculated the average monthly profit/lo
 month with the greatest increase in profit over the entire period and the month with the greatest losses over the entire period. That calculation 
 also give the amount of the great profit or loss during those months. Finally, when running my script it prints out the results of that analysis, and
 outputs the results into a separate test file. 
+![pybankresults screenshot](https://user-images.githubusercontent.com/88403946/135725171-5fca073a-56f4-4654-8384-21bc611c7610.png)
