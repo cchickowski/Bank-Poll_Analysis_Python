@@ -16,3 +16,4 @@ my script calculated the amount of votes per candidate, and the percentage of th
 the winner of the election based on their popular vote achieved. Finally, my script prints out the results of that analysis, and outputs the results
 into a separate test file. My polling results output is below:
 
+![PyPoll results screenshot](https://user-images.githubusercontent.com/88403946/135726148-127854c4-65d4-461f-b74c-37541d7c9e37.png)
